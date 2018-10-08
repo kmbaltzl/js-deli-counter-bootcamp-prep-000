@@ -1,4 +1,3 @@
-var katzDeliLine = [];
 function takeANumber(line, name) {
   var katzDeliLine = [];
   katzDeliLine.push("Ada");
